@@ -112,4 +112,4 @@ What makes Piwik unique from the competition:
   * Advanced Web Analytics capabilities such as Ecommerce Tracking, Goal tracking, Campaign tracking,
     Custom Variables, Email Reports, Custom Segment Editor, Geo Location, Real time maps, and more!
 
-Documentation and more info on http://piwik.org
+Documentation and more info on http://piwik.org 
